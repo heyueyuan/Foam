@@ -25,5 +25,6 @@
   "spellright.notificationClass": "warning",
   "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
   "vscodeMarkdownNotes.slugifyMethod": "github-slugger",
+  "vscodeMarkdownNotes.newNoteDirectory": "docs/",
   "window.autoDetectColorScheme": true,
 }
